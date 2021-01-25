@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3441B935-D5C5-4794-91C4-05D4F188E26C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xeokit-metadata/Program.cs">
+    <Files>
+      <File FileName="xeokit-metadata/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xeokit" expanded="True">
+            <Node name="xeokit-metadata" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Xbim.Essentials" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xeokit-metadata PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
